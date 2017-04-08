@@ -1,0 +1,52 @@
+{
+  "intents": [
+    {
+      "intent": "SetLocation",
+      "slots": [
+	{
+	  "name": "location",
+	  "type": "AMAZON.LITERAL"
+	}
+      ]
+    },
+    {
+      "intent": "Forecast",
+      "slots": [
+        {
+	  "name": "location",
+	  "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "ForecastNow",
+      "slots": [
+        {
+	  "name": "location",
+	  "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "ForecastDay",
+      "slots": [
+        {
+	  "name": "location",
+	  "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "ForecastWeek",
+      "slots": [
+        {
+	  "name": "location",
+	  "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
