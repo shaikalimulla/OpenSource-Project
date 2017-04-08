@@ -1,0 +1,1 @@
+This repository contains Amazaon alexa fact skill and it used Node.js environment to deploy skill using Lambda functions.  If you are not familiar with any of these and Alexa Skill SDK then please check README file present in this repository for all the details about the same with stpe by step instructions. 
